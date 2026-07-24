@@ -23,7 +23,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashikatyagi2311&show_icons=true&theme=radical" alt="My GitHub Statistics" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashikatyagi2311&layout=compact&theme=radical" alt="My Programming Languages" height="165"/>
-</p>
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashikatyagi2311&show_icons=true&theme=radical)
+
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikatyagi2311&layout=compact&theme=radical)
