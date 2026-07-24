@@ -23,6 +23,6 @@
 
 ## 📊 GitHub Stats
 
-![My GitHub Statistics](https://your-project-name.vercel.app/api?username=yashikatyagi2311&show_icons=true&theme=radical)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=yashikatyagi2311&show_icons=true&theme=radical)
 
-![My Programming Languages](https://your-project-name.vercel.app/api/top-langs/?username=yashikatyagi2311&layout=compact&theme=radical)
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikatyagi2311&layout=compact&theme=radical)
