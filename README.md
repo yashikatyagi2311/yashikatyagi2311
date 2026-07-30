@@ -54,7 +54,7 @@
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashikatyagi2311&theme=radical&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashikatyagi2311&theme=react-dark&hide_border=true)
+
 
 
 ### 📈 Contribution Graph
