@@ -53,9 +53,17 @@
 
 ### 🔥 GitHub Streak
 
+# 📊 GitHub Activity
+
+### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashikatyagi2311&theme=tokyonight&hide_border=true)
+
+### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashikatyagi2311&show_icons=true&theme=tokyonight)
+
+### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikatyagi2311&layout=compact&theme=tokyonight)
+
 
 
 
