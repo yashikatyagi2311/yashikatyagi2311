@@ -53,9 +53,6 @@
 
 ### 🔥 GitHub Streak
 
-# 📊 GitHub Activity
-
-### 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashikatyagi2311&theme=tokyonight&hide_border=true)
 
 ### 📈 GitHub Stats
