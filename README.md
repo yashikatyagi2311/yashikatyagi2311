@@ -1,7 +1,4 @@
-<h1 align="center">✨ Welcome to Yashika's GitHub ✨</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200">
-</p>
+
 # Hi, I'm Yashika 👋
 
 🎓 First-year B.Tech CSE student passionate about **AI/ML**, **Web Development**, and **Problem Solving**.
